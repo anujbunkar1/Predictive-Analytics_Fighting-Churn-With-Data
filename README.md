@@ -1,4 +1,4 @@
-# Predictive Analytics : Fighting Churn With Data
+### Predictive Analytics : Fighting Churn With Data
 
 This workbook explains customer churn, a critical issue that can significantly impact a business's bottom line. Customer churn refers to the number of customers who leave a company during a given time period, and it can have a significant impact on a company's revenues and profits.
 
